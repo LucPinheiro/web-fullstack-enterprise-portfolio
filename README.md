@@ -56,12 +56,15 @@ Aplicación web interactiva para edición de imágenes, eliminación de fondos y
 Herramienta asistida por Inteligencia Artificial para la creación automatizada de identidades visuales y eslóganes comerciales.
 - **Repositorio del proyecto:** [ai-brand-generator](https://github.com/LucPinheiro/ai-brand-generator)
 
-### 12. ⚙️ Odoo Web Suite & AI Generator
+### 12. 📊 SlideGen AI (Generador de Presentaciones con IA)
+Plataforma web asistida por inteligencia artificial orientada a la creación automatizada de presentaciones, documentos y páginas web dinámicas a partir de prompts (inspirada en herramientas tipo Gamma).
+- **Repositorio del proyecto:** [slidegen-ai](https://github.com/LucPinheiro/slidegen-ai)
+
+### 13. ⚙️ Odoo Web Suite & AI Generator
 Módulo especializado y desarrollo a medida para Odoo ERP:
 - **Odoo Web Customizer:** Herramienta para reestructurar y personalizar plantillas web nativas en Odoo según las necesidades de diseño.
 - **AI Website Generator:** Integración mediante un botón directo en los ajustes del sitio web de Odoo para generar y desplegar landing pages automatizadas a través de una agencia de IA.
 - **Repositorio del proyecto:** [odoo-ai-web-suite](https://github.com/LucPinheiro/odoo-ai-web-suite)
-
 ---
 
 ## 🛠️ Stack Tecnológico Común
