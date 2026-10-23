@@ -29,6 +29,7 @@ Plataforma web enfocada en la gestión y difusión de proyectos musicales, forma
 
 ### 6. 🎧 StemLoo
 Herramienta inteligente de remixes musicales asistida por IA a partir del envío de pistas de audio (*stems*), optimizada para la gestión de derechos de autor y creación sonora.
+* **Repositorio del proyecto:** [stemloo-ai-remix](https://github.com/LucPinheiro/stemloo-ai-remix)
 
 ### 7. 📄 CVHub (AI Resume Analyzer)
 Sistema inteligente de análisis y filtrado de currículums para el matching automático con ofertas de empleo y convocatoria de entrevistas.
