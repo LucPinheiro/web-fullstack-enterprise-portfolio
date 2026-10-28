@@ -18,7 +18,7 @@ Ecosistema tecnológico avanzado orientado a la comunidad investigadora y cient�
 - **Repositorios de Código:** Espacio estilo GitHub para científicos de datos y programadores (gestión de dependencias, scripts de Python y slugs).
 - **Publicaciones y Monetización:** Alojamiento de papers, libros y artículos con metadatos (DOI, ISBN, ISSN) y pasarela de pagos integrada (PIX y BRL).
 - **Módulo Corporativo B2B:** Conexión directa entre empresas y talento científico altamente cualificado.
-- **Repositorio del proyecto:** [latteshub-academic-platform](https://github.com/LucPinheiro/forteshub-academic-platform)
+- **Repositorio del proyecto:** [forteshub-academic-platform](https://github.com/LucPinheiro/forteshub-academic-platform)
 
 ### 3. 🪵 Casa Art (Solución en Carpintería)
 Sistema integral de gestión empresarial, catálogo web y panel ERP con control de inventario y facturación.
