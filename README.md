@@ -12,13 +12,13 @@ Si buscas proyectos relacionados con Inteligencia Artificial, APIs de RAG y auto
 Plataforma web y marca conceptual enfocada en la producción de música electrónica, diseño sonoro y generación de experiencias visuales avanzadas asistidas por IA.
 - **Repositorio del proyecto:** [kodexia-ai-agency](https://github.com/LucPinheiro/kodexia-ai-agency)
 
-### 2. 📚 LattesHub (Plataforma Académica y de Investigación)
+### 2. 📚 FortesHub (Plataforma Académica y de Investigación)
 Ecosistema tecnológico avanzado orientado a la comunidad investigadora y científica:
 - **Perfil Académico Interactivo (CV Lattes):** Procesamiento automático de currículums en formato XML para centralizar la trayectoria de investigadores.
 - **Repositorios de Código:** Espacio estilo GitHub para científicos de datos y programadores (gestión de dependencias, scripts de Python y slugs).
 - **Publicaciones y Monetización:** Alojamiento de papers, libros y artículos con metadatos (DOI, ISBN, ISSN) y pasarela de pagos integrada (PIX y BRL).
 - **Módulo Corporativo B2B:** Conexión directa entre empresas y talento científico altamente cualificado.
-- **Repositorio del proyecto:** [latteshub-academic-platform](https://github.com/LucPinheiro/latteshub-academic-platform)
+- **Repositorio del proyecto:** [latteshub-academic-platform](https://github.com/LucPinheiro/forteshub-academic-platform)
 
 ### 3. 🪵 Casa Art (Solución en Carpintería)
 Sistema integral de gestión empresarial, catálogo web y panel ERP con control de inventario y facturación.
